@@ -10,5 +10,8 @@ I pulled data from my Strava account by using [these instructions](https://githu
 
 See [this Jupyter notebook](./training.ipynb).
 
-*Proudly coded in Kingston, Jamaica* <img src="jamaica-flag.png" style="vertical-align:middle" width="50" />
-
+<p align=center>
+  <em>Proudly coded in Kingston, Jamaica</em>
+  <br>
+  <img src="jamaica-flag.png" alt="Jamaica flag" width="50" />
+</p>

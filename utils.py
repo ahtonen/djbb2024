@@ -11,6 +11,7 @@ colors = {
     "Finland flag blue": "#002F6C",
     "Jamaica flag green": "#009B3A",
     "Jamaica flag yellow": "#FED100",
+    "scorchio": "#FFCF00"
 }
 
 
